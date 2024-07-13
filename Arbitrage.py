@@ -6,7 +6,7 @@ import openpyxl
 from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Border, Side, Font, Alignment, PatternFill, numbers
 
-API_KEY = "31b5bbf7a601d3f7febdd540405724b2"
+API_KEY = "Your API KEY"
 
 
 SPORT = 'upcoming' # use the sport_key from the /sports endpoint below, or use 'upcoming' to see the next 8 games across all sports
